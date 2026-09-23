@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=151B23,0D1117&height=200&section=header&text=Laraib Mujahid&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=151B23,0D1117&height=200&section=header&text=Laraib Mujahid&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%C2%B7%20Automation%20%C2%B7%20Pakistan&descAlignY=68&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=151B23,0D1117&height=200&section=header&text=Laraib&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Web%20Developer%20%C2%B7%20Automation%20%C2%B7%20Pakistan&descAlignY=68&descSize=20" width="100%"/>
 
 
 
